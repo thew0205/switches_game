@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "switches_game",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "switches_game (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "switches_game (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "control_pad-1.1.1+1",
+            "cwd": "packages\\control_pad-1.1.1+1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "control_pad-1.1.1+1 (profile mode)",
+            "cwd": "packages\\control_pad-1.1.1+1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "control_pad-1.1.1+1 (release mode)",
+            "cwd": "packages\\control_pad-1.1.1+1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
